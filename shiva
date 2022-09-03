@@ -5,8 +5,7 @@ class Main{
         System.out.print("Enter the size of your shirt from the following choices (22,33,44,55) : ");
         int number = input.nextInt();
         String size;
-        switch(number){
-            case 22:
+                    case 22:
                 System.out.println("Your shirt size is S");
                 break;
             case 33:
